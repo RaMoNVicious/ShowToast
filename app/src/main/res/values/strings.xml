@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShowToast</string>
+    <string name="choice_chocolate">Chocolate syrup</string>
+    <string name="choice_sprinkles">Sprinkles</string>
+    <string name="choice_crashed_nuts">Crushed nuts</string>
+    <string name="choice_cherries">Cherries</string>
+    <string name="choice_orio_cookie">Orio cookie crumbles</string>
+    <string name="choice_submit">Show Toast</string>
+    <string name="choice_result">Toppings: %s</string>
+</resources>
